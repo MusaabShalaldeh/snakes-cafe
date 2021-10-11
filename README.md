@@ -1,7 +1,7 @@
 # Snakes Cafe
 
 
-### Pull Requestions
+### Pull Requests
 
 Adding Initial Functionality:
 
